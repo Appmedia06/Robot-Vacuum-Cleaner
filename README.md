@@ -36,10 +36,10 @@
 # 實際圖
 
 * 接線
-<img src='https://github.com/Appmedia06/Robot-Vacuum-Cleaner/blob/main/image/%E4%B8%8A' width=350/>
+<img src='https://github.com/Appmedia06/Robot-Vacuum-Cleaner/blob/main/image/%E4%B8%8A' width=500/>
 
 * 側面
-<img src='https://github.com/Appmedia06/Robot-Vacuum-Cleaner/blob/main/image/%E5%81%B4' width=350/>
+<img src='https://github.com/Appmedia06/Robot-Vacuum-Cleaner/blob/main/image/%E5%81%B4' width=500/>
 
 # Youtube Video Link
 * <a href="https://www.youtube.com/watch?v=AnjX--ckHNQ">Robot Vacuum Cleaner</a>
