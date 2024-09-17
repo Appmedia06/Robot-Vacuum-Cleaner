@@ -31,6 +31,7 @@
 8. 按鈕:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用於開始工作即停止工作(LPM)的開關
   
 # 接線圖
+<img src='https://github.com/Appmedia06/Robot-Vacuum-Cleaner/blob/main/image/stm32.drawio.png' width=700/>
 <img src='https://github.com/Appmedia06/Robot-Vacuum-Cleaner/blob/main/image/%E6%8E%A5%E7%B7%9A%E5%9C%96' width=700/>
 
 # 實際圖
